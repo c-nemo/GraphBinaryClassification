@@ -8,7 +8,7 @@
   - LSTM_Need.ipynb - модель внедреннная в решение (отличается от предыдущей версии)
   - (добавить) Log_reg.ipynb: логистическая регрессия на дополненном датасете
   - (добавить) GAT.ipynb: наработки GAT
-  - (добавить) Experiments.ipynb: содержит модели (Catboost, XGBoost, Logistic Regression, LSTM (предсказание класса по последовательности признаков (в доработке))
+  - (в корне) Experiments.ipynb: содержит модели (Catboost, XGBoost, Logistic Regression, LSTM (предсказание класса по последовательности признаков (в доработке))
   
 - Submits
   - test_target.csv
